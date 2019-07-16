@@ -38,7 +38,11 @@ if you like my work support me
 >
 > - [PayPal](https://paypal.me/divyamjoshi)
 <br>
+
 ## License
+
+```
+
 The MIT License
 
 Copyright (c) 2019 Divyam Joshi
